@@ -4,6 +4,7 @@ import Search from "./pages/search";
 import Saved from "./pages/saved";
 import NoMatch from "./pages/NoMatch";
 import Nav from "./components/Nav";
+import "./App.css"
 
 function App() {
   return (
